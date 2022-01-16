@@ -1,8 +1,7 @@
 <template>
   <div>
     <h1>CONVERSOR MOEDA</h1>
-    
-    <conversor moeda-a="USD" moeda-b="BRL"/>
+    <conversor/>
   </div>
 </template>
 
